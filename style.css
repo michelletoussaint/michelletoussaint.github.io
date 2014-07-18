@@ -1,0 +1,23 @@
+.sidebar {
+	background: gray;
+	width: 300px;
+	border: 5px #000;
+
+}
+
+.blog
+{
+	border: 5px black;
+	float: right, top;
+}
+
+body{
+	font-family:Arial;
+}
+
+h1{
+
+}
+p {
+
+}
